@@ -1,0 +1,499 @@
+,Neighborhood,ID,Name,Likes,Rating,Tips
+0,Midtown South,4a807240f964a52040f51fe3,Coppola's,41,7.9,22
+1,Little Italy,3fd66200f964a520dbe91ee3,Lupa,553,8.8,228
+2,Flatiron,44ae8bc6f964a52027351fe3,Vezzo Thin Crust Pizza,775,8.8,271
+3,Midtown,3fd66200f964a5209ee81ee3,Carmine’s Italian Restaurant,1617,8.3,553
+4,Gramercy,40f1d480f964a520680a1fe3,Hearth,585,8.7,208
+5,Clinton,4adce863f964a5206c6221e3,Tony's Di Napoli,540,8.4,226
+6,Tribeca,3fd66200f964a520f4e41ee3,Ecco,29,7.3,19
+7,Chinatown,0,0,0,0.0,0
+8,Greenwich Village,4b0ddac5f964a520645123e3,Emilio's Ballato,164,8.6,66
+9,Midtown,4ba56a50f964a520df0439e3,Trattoria Trecolori,171,7.0,93
+10,Lincoln Square,4c353f26452620a1a292260f,Urbani Truffles,6,7.0,2
+11,Upper West Side,0,0,0,0.0,0
+12,West Village,543c7c63498e0a3393da47a2,Via Carota,621,9.3,160
+13,Civic Center,524f650e11d2b2e01dc964f8,Terra Wine Bar,276,9.0,69
+14,Upper West Side,0,0,0,0.0,0
+15,Upper East Side,4b720a32f964a5209b6b2de3,Petaluma,37,6.9,27
+16,Lincoln Square,3fd66200f964a520a5e31ee3,Arte Cafe,121,6.4,77
+17,Hamilton Heights,0,0,0,0.0,0
+18,Soho,4a149749f964a52055781fe3,Locanda Verde,1434,9.1,503
+19,Upper East Side,5365a69c498e43ca2718d05c,Gina La Fornarina,21,8.1,1
+20,Hudson Yards,506e48ffe4b078ebe1c30a29,Bocca Di Bacco,106,8.1,37
+21,Soho,4b9e79e4f964a52035e736e3,Tiro A Segno,20,8.2,6
+22,Lincoln Square,0,0,0,0.0,0
+23,Flatiron,4e0a4deba80926c35bb46df2,Le Cucine @ Eataly,25,7.5,11
+24,Hudson Yards,49f20537f964a520d3691fe3,Manganaro's Hero Boy,36,6.7,39
+25,Battery Park City,5421eb06498e1b6b9c1bfd9c,Gran Morsi,75,8.0,23
+26,Carnegie Hill,4b3bedfaf964a5209e7e25e3,Antonucci,42,8.6,13
+27,Turtle Bay,4b2042fff964a5208f2f24e3,Pietro's,40,7.9,19
+28,Morningside Heights,0,0,0,0.0,0
+29,West Village,4ae37f19f964a520d79521e3,Piccolo Angolo,84,8.3,55
+30,West Village,3fd66200f964a520cee91ee3,La Lanterna di Vittorio,556,9.0,182
+31,Chinatown,4b23f44ff964a520b75d24e3,Paesano of Mulberry Street,191,7.6,92
+32,Sutton Place,507c649af13693aa3f017cd0,Sirio Ristorante,53,8.4,40
+33,Sutton Place,4b40fa78f964a520a8be25e3,Il Postino,26,7.8,20
+34,Carnegie Hill,55881297498ef037cd45b403,Zestys Pizzeria e Salumeria,29,7.3,7
+35,Carnegie Hill,4a356c9ef964a520f99c1fe3,La Mia Pizza,37,6.0,42
+36,Turtle Bay,4b40fa78f964a520a8be25e3,Il Postino,26,7.8,20
+37,Noho,4c7d4f1b8da18cfa1afc9ece,Osteria Morini,750,8.7,296
+38,Murray Hill,551f21cd498e341e6a5e1276,Patrizia's of Manhattan,96,7.6,16
+39,Midtown,57559322498e0c448e8bef53,Toscana 49,32,7.3,6
+40,Clinton,4c8692bbd4e237045f778c88,Briciola,346,8.7,129
+41,Midtown South,585030bc4bafb73bd0302c6d,Non Solo Piada,22,7.2,9
+42,Gramercy,4f5a3f7ae4b0d28c6907c6a9,Rosticceria,36,7.4,14
+43,Chelsea,4ae37f19f964a520d79521e3,Piccolo Angolo,84,8.3,55
+44,Manhattan Valley,5c5b43f18194fc002c18f606,Fumo,17,8.5,6
+45,Midtown South,5406665a498e800a29690993,Marta,1104,8.8,287
+46,East Harlem,51b0be57498ef8fafbaa1bbd,Neapolitan Express,32,6.9,17
+47,Noho,49e8b984f964a52070651fe3,Tarallucci e Vino,132,7.4,56
+48,Inwood,0,0,0,0.0,0
+49,West Village,57c848e6498e1f0d11d9d3f1,King,123,8.4,20
+50,Greenwich Village,4c7d4f1b8da18cfa1afc9ece,Osteria Morini,750,8.7,296
+51,Battery Park City,437bc800f964a520a52a1fe3,Scalini Fedeli,61,8.4,28
+52,Tudor City,57559322498e0c448e8bef53,Toscana 49,32,7.3,6
+53,East Village,54459a46498ecf8ec204cc61,Vic's,491,8.9,113
+54,Little Italy,4be1bcf53ef676b05651c0ca,Fiat Café,243,7.9,126
+55,Greenwich Village,54c3198d498eb66c4d02fd9e,Song' e Napule Pizzeria,61,8.7,25
+56,Upper East Side,504bb0fae4b0d1cf33ca07d0,83 1/2,44,8.5,22
+57,Battery Park City,4ade131af964a520db7221e3,Rosella's Pizzeria,68,7.5,50
+58,Gramercy,3fd66200f964a520bde41ee3,Bar Veloce,229,7.2,79
+59,Upper East Side,4fec98cce4b0e53ef25f8101,Gina La Fornarina,26,6.7,8
+60,Manhattanville,0,0,0,0.0,0
+61,Sutton Place,43f34e1df964a520982f1fe3,Serafina Always,278,8.2,109
+62,Financial District,3fd66200f964a520f4e41ee3,Ecco,29,7.3,19
+63,Midtown South,3fd66200f964a52059eb1ee3,Le Zie 2000 Trattoria,72,8.0,74
+64,Chelsea,56fff9b4498e1acc6cfc46a7,Filaga,43,6.7,18
+65,Chelsea,0,0,0,0.0,0
+66,Hudson Yards,0,0,0,0.0,0
+67,Chinatown,4f8b60cfe4b09efba3540ce3,Cafe'tal Social Club,45,7.6,20
+68,Gramercy,5ba2bdd5c824ae002c065c67,Sauce Pizzeria,44,7.5,10
+69,West Village,5c27b46a67a9fe002ce6b3ca,Fiaschetteria Pistoia,38,8.7,10
+70,Clinton,3fd66200f964a520a7e81ee3,Osteria al Doge,88,7.9,55
+71,East Village,46e7a0caf964a520ca4a1fe3,Gemma,580,8.3,192
+72,East Village,4230df80f964a520fe1f1fe3,Cacio e Pepe,111,7.5,61
+73,Greenwich Village,5510c86c498e168f07f2c78b,MAMO Restaurant,79,8.5,22
+74,Greenwich Village,3fd66200f964a5202de71ee3,Palma,494,9.0,127
+75,Midtown South,4a3d2ca8f964a520eaa11fe3,Restivo Ristorante,23,7.5,9
+76,Chelsea,4533d338f964a5208f3b1fe3,Del Posto,653,8.7,280
+77,Central Harlem,0,0,0,0.0,0
+78,East Village,0,0,0,0.0,0
+79,Noho,5278266c11d293a0a590ad87,Sant Ambroeus,255,8.4,52
+80,Tudor City,4ae5f80bf964a5209ea321e3,Osteria Laguna,67,6.6,37
+81,Upper East Side,4f3c537de4b022e41cafe56f,Bottega,36,6.6,12
+82,Tribeca,579e5513498e9ffc61b6ad8e,Piccola Cucina Enoteca,63,8.6,13
+83,Sutton Place,3fd66200f964a52087e91ee3,Canaletto,8,6.9,7
+84,Midtown,4d0122e21ebe6dcb3d918b91,Casa Nonna,200,8.0,79
+85,Flatiron,49ca37b5f964a520a2581fe3,Scarpetta,574,8.9,260
+86,Tudor City,49f1d030f964a520b9691fe3,Cipriani Dolci,114,6.7,62
+87,Battery Park City,4b50efc8f964a5207a3927e3,Underground Pizza,36,6.5,23
+88,Civic Center,528bf16711d2b7722da6b51c,Pisillo Italian Panini,295,9.1,94
+89,Manhattan Valley,4a86083ff964a520230020e3,Giovanni's,11,6.5,8
+90,Noho,56d25b49cd10ac3ebb4e591c,Gnoccheria by Luzzo's,47,7.9,11
+91,Midtown South,5aebab20336273002c158f04,Serra On The Roof,112,7.5,30
+92,Murray Hill,4a8c31aef964a520410d20e3,Little Italy Pizza,68,7.4,40
+93,Tribeca,40f5c900f964a520a30a1fe3,Cipriani Downtown,311,8.5,110
+94,Sutton Place,4d840360d5fab60c7b25d99b,Bar Italia,108,8.3,45
+95,Battery Park City,4fa862b3e4b0ebff2f749f06,Harry's Italian Pizza Bar,120,7.0,56
+96,Civic Center,5990eb7e2aff3159d842f30c,Sola Pasta Bar,51,7.5,15
+97,Clinton,4b04428af964a520a55222e3,Cara Mia,50,7.0,38
+98,Upper East Side,4a930ebcf964a520a71e20e3,Il Riccio,12,6.9,10
+99,Chelsea,4a87666df964a520360420e3,Gradisca,77,8.2,42
+100,East Village,4b4bca62f964a520cba726e3,Frank's Trattoria,35,8.2,19
+101,Lower East Side,555ea6a9498e47aa037def3d,Spaghetti Incident,163,8.2,47
+102,Little Italy,504b2a9ee4b006c435a465d3,Carbone,718,9.2,234
+103,Civic Center,4ad68c35f964a520c20721e3,Pepolino,167,8.8,114
+104,Gramercy,4749a1adf964a520934c1fe3,Bocca Restaurant,93,8.0,46
+105,Yorkville,4a6133a6f964a52015c21fe3,Caffe Buon Gusto - Manhattan,111,8.7,39
+106,Battery Park City,592b5e9c0ff4f9137e2a8390,L'angolo,13,6.8,3
+107,Hudson Yards,4ba293adf964a520ef0538e3,Etcetera Etcetera,101,7.5,48
+108,Yorkville,512aa118e4b0202936ab05dc,1742 Wine Bar And Lounge,72,6.0,35
+109,Chelsea,0,0,0,0.0,0
+110,Civic Center,4a4560a7f964a5201aa81fe3,Harry's Italian Pizza Bar,317,8.0,141
+111,Chinatown,4e3f1be9fa76455375ceb418,Taverna di Bacco,41,6.7,32
+112,Clinton,506e48ffe4b078ebe1c30a29,Bocca Di Bacco,106,8.1,37
+113,Lower East Side,4aa5ae24f964a520254920e3,Pizza Shack,3,4.8,13
+114,Yorkville,4a356c9ef964a520f99c1fe3,La Mia Pizza,37,6.0,42
+115,Lincoln Square,4d6e8e5d30d5b1f7a510c942,Abitino's Pizza & Cafe,1,5.3,5
+116,Manhattanville,4c956003f7cfa1cd2e2ebd15,Bettolona,90,7.7,39
+117,Gramercy,4a790030f964a520cbe61fe3,Luzzo's,279,8.5,112
+118,Lenox Hill,422b9980f964a520d81f1fe3,Primola,28,7.3,15
+119,Tudor City,57f54dcccd10dbbdcf2f6f62,Lena's Italian Kitchen,10,7.2,5
+120,Battery Park City,556cb8c6498e751e51fbcf41,Parm,246,8.0,73
+121,Murray Hill,4b25838af964a520257324e3,Fagiolini's House of Lasagna,42,7.3,19
+122,Lincoln Square,5c0fffca4f0e58002cb7917d,Pasta By Hudson,7,6.1,0
+123,Hudson Yards,0,0,0,0.0,0
+124,Yorkville,0,0,0,0.0,0
+125,Murray Hill,44ae8bc6f964a52027351fe3,Vezzo Thin Crust Pizza,775,8.8,271
+126,Financial District,520d094711d2181a654c3559,Pranzo Pizza,28,6.2,9
+127,Chelsea,0,0,0,0.0,0
+128,Civic Center,4b23f44ff964a520b75d24e3,Paesano of Mulberry Street,191,7.6,92
+129,Lower East Side,0,0,0,0.0,0
+130,Morningside Heights,0,0,0,0.0,0
+131,East Harlem,0,0,0,0.0,0
+132,Chelsea,449e952ef964a520bc341fe3,Sant Ambroeus West Village,220,8.6,71
+133,Chinatown,5b1f14c44f0e58002cddf11d,Aunt Jake’s,46,7.7,11
+134,Little Italy,4e949c4adab40cefc9390b5a,Sauce Restaurant,440,8.1,190
+135,West Village,49bf033cf964a520fe541fe3,Gene's,43,8.9,17
+136,Chinatown,439b5079f964a520de2b1fe3,Epistrophy,448,8.3,152
+137,Chelsea,56a1214f498e7512685bb8a1,Cappone’s Salumeria,47,8.5,13
+138,Midtown,4ce52cc12ea9a143886b112b,Piccolo Cafe,186,7.6,111
+139,Yorkville,4b2ede2cf964a520aae724e3,Luigi's Pizzeria,49,7.5,36
+140,Clinton,57e55e46498e04b0dc14dbb0,Via Trenta,21,7.7,3
+141,Washington Heights,4d21107c6e8c37042b58ff9f,Saggio Restaurant,119,8.4,62
+142,Gramercy,57c772d1498e6cb2f6531cdf,Follia,113,8.4,20
+143,Hudson Yards,4dcae1b18877502200c95822,Sergimmo Salumeria,325,8.8,129
+144,Yorkville,4cf1d4171c158cfa42f6d3b5,Sistina,15,7.5,5
+145,Tribeca,5ab53749446ea6289e41b0e6,Coco Pazzo Kitchen & Restaurant,57,8.9,11
+146,Financial District,55387c1b498e4eca6482f4f5,Industry Kitchen,342,7.3,68
+147,Tribeca,596e8fbd6f706a4c51646b72,Serafina Tribeca,39,6.5,8
+148,Murray Hill,57ae765338fa130d6efa6e63,Tarallucci e Vino,39,6.7,3
+149,Hudson Yards,5bd10c0ca35dce002cb16e6c,Nitti’s,6,7.0,3
+150,Stuyvesant Town,0,0,0,0.0,0
+151,Lower East Side,43d69120f964a5204f2e1fe3,Piada,0,6.1,8
+152,East Harlem,3fd66200f964a5207de81ee3,Rao's,79,8.3,34
+153,Stuyvesant Town,0,0,0,0.0,0
+154,Flatiron,59dd1ccaf870fd589f795fca,Vini E Fritti,86,8.2,14
+155,West Village,5243928d2fc659b07ab2f357,Pizzetteria Brunetti NYC,168,8.5,50
+156,Flatiron,59b47aa8e1f0aa6d9ead23d5,Aunt Jake's,67,7.6,12
+157,Sutton Place,4e83babe9a52bd4693c4c46f,Morso NYC,35,7.6,15
+158,Battery Park City,528bf16711d2b7722da6b51c,Pisillo Italian Panini,295,9.1,94
+159,Yorkville,3fd66200f964a520a0e91ee3,Due,18,7.5,14
+160,Lower East Side,49d8d101f964a520cb5d1fe3,Giano Restaurant,81,8.4,53
+161,Turtle Bay,4acbe3c4f964a5203bc820e3,Casa Lever,205,8.1,69
+162,Tudor City,525d7bde498e3a406f590b1d,Davio's North Italian Steakhouse,58,6.2,35
+163,Upper East Side,51c9e3f9498e2cb9c31d19ff,The Meatball Shop,654,8.5,177
+164,Tribeca,4e6017d252b1260c121a429e,Girello,19,6.2,9
+165,Financial District,556cb8c6498e751e51fbcf41,Parm,246,8.0,73
+166,Little Italy,4ad68c35f964a520c20721e3,Pepolino,167,8.8,114
+167,Stuyvesant Town,0,0,0,0.0,0
+168,Midtown,42f15a80f964a520bb261fe3,Olive Garden,876,8.0,295
+169,Lower East Side,472a027af964a520ea4b1fe3,Bacaro,192,8.1,73
+170,Hudson Yards,5633bec0498e430fc8ba8f3c,La Vela Dining & Bar,23,8.0,6
+171,Civic Center,5058f3f3e4b0e7b3d5579161,La Bella Vita,123,7.3,57
+172,Turtle Bay,0,0,0,0.0,0
+173,Midtown,4aaaeadcf964a5200c5820e3,La Masseria,210,8.4,83
+174,Sutton Place,4d3772ec9516236a6a058d51,My Pie,151,8.2,59
+175,Turtle Bay,5946256e08815818ea34a928,Allora Alto,6,6.9,1
+176,Civic Center,4a7f56ecf964a520baf31fe3,Benito One,73,7.4,35
+177,Murray Hill,5b1db44d0d8a0f002c17fd87,Angeletto,11,7.8,1
+178,Midtown,4b737b0af964a5208db02de3,Cipriani Le Specialita,47,7.3,38
+179,Upper West Side,4b786cecf964a52052cd2ee3,Bellini Italian Restaurant & Brick Oven Pizza,32,7.1,27
+180,Lenox Hill,4cf1d4171c158cfa42f6d3b5,Sistina,15,7.5,5
+181,Flatiron,4a08564af964a520b4731fe3,Il Cantinori,137,8.4,43
+182,Murray Hill,5841ccc14f218a0b9ba9003f,Allora,19,7.0,5
+183,Stuyvesant Town,49d8d101f964a520cb5d1fe3,Giano Restaurant,81,8.4,53
+184,Turtle Bay,4ba555aff964a52002fc38e3,Cafe Daniello's,11,5.7,10
+185,Clinton,50b93a9ee4b0f99bbdc7bba3,Cielo At The Mayfair,22,6.7,9
+186,Flatiron,5b7b54de56837a001cdae7a6,Il Pastaio di Eataly,14,7.6,2
+187,Gramercy,4f62a5dce4b09612cdfbae27,I Salumi I Formaggi,15,8.5,4
+188,Lincoln Square,0,0,0,0.0,0
+189,Clinton,59cc2439c530930c5ac0a887,Bond 45,53,7.1,19
+190,Upper West Side,42489a80f964a5208a201fe3,Celeste,241,8.6,125
+191,East Village,57c772d1498e6cb2f6531cdf,Follia,113,8.4,20
+192,Civic Center,57acc558498e036ce8f2b0b4,La Pizza & La Pasta,192,8.2,45
+193,Turtle Bay,4b25838af964a520257324e3,Fagiolini's House of Lasagna,42,7.3,19
+194,Midtown,4b3c0273f964a520488025e3,Rossinis,54,7.9,21
+195,Flatiron,4749a1adf964a520934c1fe3,Bocca Restaurant,93,8.0,46
+196,Flatiron,579a7a58498e9c3e31410387,Casa Apicii,88,7.9,11
+197,Yorkville,4b9ad6c1f964a520dcda35e3,Maruzzella Ristorante,15,7.3,13
+198,Murray Hill,4afc4d5ef964a520532122e3,Park Italian Gourmet,61,8.1,43
+199,Noho,53726183498e6a101ea7fd06,Bar Primi,632,8.5,200
+200,Chinatown,58a0d55f01f4336068ac5f77,Sapori Ditalia,20,7.7,7
+201,Lincoln Square,5971432facc5f5412834b3f7,Noi Due Carne,6,8.0,2
+202,Financial District,4324c500f964a520ac271fe3,Joseph's Ristorante,18,6.8,8
+203,Midtown South,58252ebad02c06429707be49,Norma,52,7.8,18
+204,Central Harlem,584ca4c2730a923792498b85,Olive Garden,14,6.8,1
+205,Midtown South,55e63b89498e3ed62f75cff3,L'Amico,399,8.6,79
+206,Upper West Side,4bca5bce937ca59323cca792,Francesca's La Vela,7,7.3,12
+207,Flatiron,4c5ef77bfff99c74eda954d3,Eataly Flatiron,8129,9.3,1480
+208,Tudor City,4b40fa78f964a520a8be25e3,Il Postino,26,7.8,20
+209,Financial District,0,0,0,0.0,0
+210,Upper West Side,0,0,0,0.0,0
+211,Turtle Bay,50f9918de4b06a4e33f7bc7b,Patsy's Pizzeria,85,7.8,30
+212,East Harlem,0,0,0,0.0,0
+213,Carnegie Hill,3fd66200f964a520a0e91ee3,Due,18,7.5,14
+214,East Village,5a1b58e5f0b4905fe177d8a4,Sorbillo Pizzeria,100,8.1,31
+215,Gramercy,49e8b984f964a52070651fe3,Tarallucci e Vino,132,7.4,56
+216,Marble Hill,0,0,0,0.0,0
+217,Noho,4d9f8d97a428a1cdd92acb04,Parm,1128,8.7,495
+218,Little Italy,4a372daef964a5203a9e1fe3,Piccola Cucina Osteria,203,7.6,111
+219,Sutton Place,428a8580f964a52095231fe3,Harry Cipriani,151,8.0,56
+220,Midtown South,5113bdade4b02a8086623542,Stella 34 Trattoria,310,8.2,111
+221,Flatiron,4aa7a44ef964a520e44c20e3,Mangia,88,7.5,38
+222,Noho,4f8b60cfe4b09efba3540ce3,Cafe'tal Social Club,45,7.6,20
+223,Noho,3fd66200f964a520ade61ee3,Puglia Restaurant,105,7.4,49
+224,Upper East Side,4a22d7f9f964a520977d1fe3,Sant Ambroeus,318,8.8,87
+225,Carnegie Hill,4bb4d86886a8d13a83f8de7f,Sfoglia,94,8.1,55
+226,Hudson Yards,585030bc4bafb73bd0302c6d,Non Solo Piada,22,7.2,9
+227,Sutton Place,4c7ecc952042b1f79b0dc1ad,Lavo,1396,8.3,301
+228,Midtown South,44ae8bc6f964a52027351fe3,Vezzo Thin Crust Pizza,775,8.8,271
+229,Manhattan Valley,4abc2282f964a5208a8620e3,Gennaro Restaurant,77,7.2,43
+230,Civic Center,52375dee11d23f06740c8f3e,Tutto Il Giorno Tribeca,92,7.5,22
+231,Little Italy,5070d27ae4b0513ffd4ddfe7,Trapizzino,81,8.6,17
+232,East Village,49c98a0df964a52076581fe3,Tre Restaurant & Wine Bar,144,7.4,94
+233,Sutton Place,3fd66200f964a5201ee81ee3,Pescatore,53,7.0,38
+234,Gramercy,5b7b54de56837a001cdae7a6,Il Pastaio di Eataly,14,7.6,2
+235,Lower East Side,5ae016fc2faed54a007fbb89,Una Pizza Napoletana,85,7.0,19
+236,Carnegie Hill,4bd223c941b9ef3b4770fde5,Pinocchio Ristorante,18,7.3,13
+237,Clinton,5c6377a0c824ae002c25c915,dell’anima,17,8.0,7
+238,East Village,4800619cf964a520ec4e1fe3,Artichoke Basille’s Pizza,1279,8.1,567
+239,Tudor City,54346628498ebac5863d871b,La Stanza,11,6.0,7
+240,Battery Park City,4eb0244ff7900d57e4ac27a3,Tre Sorelle,25,6.7,13
+241,Noho,5a1b58e5f0b4905fe177d8a4,Sorbillo Pizzeria,100,8.1,31
+242,Noho,3fd66200f964a5204de41ee3,Frank Restaurant,424,8.8,164
+243,Chinatown,5018507fe4b03a729d0b40f9,Galli Restaurant,502,7.9,142
+244,Noho,4230df80f964a520fe1f1fe3,Cacio e Pepe,111,7.5,61
+245,Clinton,3fd66200f964a520bdea1ee3,Sardi's,222,7.4,102
+246,Chinatown,555ea6a9498e47aa037def3d,Spaghetti Incident,163,8.2,47
+247,Little Italy,41ddd100f964a520c21e1fe3,Forlini's,82,7.9,34
+248,Stuyvesant Town,49c6a988f964a5206e571fe3,Gnocco,199,7.9,93
+249,Chinatown,0,0,0,0.0,0
+250,Manhattan Valley,4bcbd62afb84c9b60ba21f3e,Broadway Pizza & Restaurant,7,6.5,7
+251,Carnegie Hill,5a823cbf1987ec6cdaea60dd,Mimmo Cucina Italiana,6,7.0,2
+252,West Village,53235762498e36c1448965bf,La Panineria,58,8.8,15
+253,Sutton Place,500225ece4b06c76d0c046cc,Angelo Bellini,21,7.4,11
+254,Little Italy,3fd66200f964a520d0e41ee3,Lil' Frankie's,892,8.9,256
+255,Midtown,3fd66200f964a5207ee71ee3,Sparks Steak House,240,8.0,81
+256,Tudor City,4b887dcbf964a520e0fb31e3,Sam's Place,29,6.9,21
+257,Turtle Bay,4d3772ec9516236a6a058d51,My Pie,151,8.2,59
+258,Chelsea,50a585b4e4b01812d6ad7384,Sotto 13,402,8.6,117
+259,Yorkville,4beb3df1b3352d7f084456d2,Tevere,16,7.6,9
+260,Little Italy,5278266c11d293a0a590ad87,Sant Ambroeus,255,8.4,52
+261,Little Italy,3fd66200f964a52050e61ee3,Il Corallo Trattoria,259,8.3,118
+262,Tudor City,5946256e08815818ea34a928,Allora Alto,6,6.9,1
+263,Gramercy,53370455498e18d7e6607a1d,La Pizza & La Pasta,199,8.4,57
+264,Carnegie Hill,4a84af7ff964a52055fd1fe3,Arturo's,23,6.9,20
+265,Murray Hill,57dad81f498e43ee1c4a75c4,Vago Restaurant,9,6.9,2
+266,Turtle Bay,4ab1914bf964a520076a20e3,Sofia Wine Bar,230,8.7,89
+267,Battery Park City,5078413372da7d9d2e0d54ca,Felice,147,7.8,51
+268,Little Italy,54f27deb498e47a670f5e399,Gelso & Grand,298,8.4,77
+269,Murray Hill,4d9a3903bbf7b1f70193924b,O&CO.,5,7.2,4
+270,Lenox Hill,4a0ad2b9f964a520ac741fe3,Mediterraneo,59,7.1,38
+271,East Harlem,0,0,0,0.0,0
+272,Greenwich Village,53235762498e36c1448965bf,La Panineria,58,8.8,15
+273,East Village,4a60ad34f964a52001c11fe3,Bruno's Gourmet Market,43,7.1,37
+274,Soho,4b0ddac5f964a520645123e3,Emilio's Ballato,164,8.6,66
+275,Clinton,4dcae1b18877502200c95822,Sergimmo Salumeria,325,8.8,129
+276,Soho,5510c86c498e168f07f2c78b,MAMO Restaurant,79,8.5,22
+277,Flatiron,4f77a50fe4b05cde611bd97c,Ribalta,286,8.4,104
+278,Lower East Side,3fd66200f964a520d0e41ee3,Lil' Frankie's,892,8.9,256
+279,Soho,43446900f964a52073281fe3,Alidoro,547,8.6,232
+280,Washington Heights,0,0,0,0.0,0
+281,Sutton Place,422b9980f964a520d81f1fe3,Primola,28,7.3,15
+282,Tudor City,3fd66200f964a5207ee71ee3,Sparks Steak House,240,8.0,81
+283,Morningside Heights,5c684f8f628c83002c05ae78,Ortomare,5,6.9,4
+284,Tudor City,4d9a3903bbf7b1f70193924b,O&CO.,5,7.2,4
+285,Tudor City,0,0,0,0.0,0
+286,Carnegie Hill,4dcf3f00d22deadedd682925,Luna Rossa,18,7.4,8
+287,Lincoln Square,0,0,0,0.0,0
+288,Yorkville,45e724b3f964a5205b431fe3,Lusardi's,31,8.2,10
+289,Flatiron,4e72a19945dd1ac617629a71,Il Pesce,125,8.4,49
+290,Stuyvesant Town,4b4bca62f964a520cba726e3,Frank's Trattoria,35,8.2,19
+291,Chinatown,5f375ed976cccc26893db65a,Kimika,19,8.2,9
+292,Little Italy,4a31891bf964a520ed991fe3,Max,163,7.9,92
+293,Yorkville,5a823cbf1987ec6cdaea60dd,Mimmo Cucina Italiana,6,7.0,2
+294,Tribeca,556cb8c6498e751e51fbcf41,Parm,246,8.0,73
+295,Flatiron,59dc07609ef8ef6202638fba,Don Angie,170,8.9,47
+296,Tudor City,4b7617f4f964a520473c2ee3,Cucina Express MetLife,18,5.6,25
+297,Hudson Yards,0,0,0,0.0,0
+298,Manhattanville,3fd66200f964a52006e91ee3,Max SoHa,112,7.8,60
+299,Tudor City,4ab1914bf964a520076a20e3,Sofia Wine Bar,230,8.7,89
+300,Manhattanville,0,0,0,0.0,0
+301,Lincoln Square,49e69d0cf964a5205b641fe3,Barcibo Enoteca,120,7.5,57
+302,Gramercy,4a807240f964a52040f51fe3,Coppola's,41,7.9,22
+303,Carnegie Hill,57d9ddfe498e8a66d21ce8bb,Sistina,29,8.1,7
+304,Soho,4cc6222106c25481d7a4a047,Rubirosa Ristorante,2497,9.3,829
+305,Tudor City,44ae8bc6f964a52027351fe3,Vezzo Thin Crust Pizza,775,8.8,271
+306,Chelsea,43cb5586f964a520b92d1fe3,Il Bastardo,221,5.7,99
+307,West Village,4b5210cbf964a5202f6527e3,Villa Mosconi Restaurant,61,8.3,29
+308,Turtle Bay,541cdacb498ee14d9f5c15c6,Bistango,37,7.5,11
+309,Hudson Yards,0,0,0,0.0,0
+310,Clinton,4a610549f964a520b0c11fe3,Il Melograno,87,8.1,40
+311,Hudson Yards,0,0,0,0.0,0
+312,Civic Center,5078413372da7d9d2e0d54ca,Felice,147,7.8,51
+313,Chelsea,4cf6db7866585481afafcb98,Slice & Co,40,5.6,21
+314,Midtown South,4abad7b8f964a520208320e3,Il Punto Ristorante,46,7.7,33
+315,Midtown,4c24dcaaf7ced13a0484236d,Blake & Todd,14,7.2,10
+316,Chelsea,4a8c84daf964a520530e20e3,da Umberto,88,8.8,38
+317,Yorkville,51c9e3f9498e2cb9c31d19ff,The Meatball Shop,654,8.5,177
+318,Battery Park City,542b4e59498e6ff85d98370b,Cipriani,46,8.0,6
+319,Lenox Hill,4b495fb4f964a520a36e26e3,Delizia 73 Ristorante & Pizza,69,7.7,35
+320,Lower East Side,5bef97dab6b04b002b9b5ab3,BigA,11,8.4,7
+321,Civic Center,437bc800f964a520a52a1fe3,Scalini Fedeli,61,8.4,28
+322,Civic Center,3fd66200f964a520ade61ee3,Puglia Restaurant,105,7.4,49
+323,Chelsea,4b4cc1f2f964a52087bd26e3,Bottino Restaurant,101,7.5,44
+324,Upper East Side,4b3bedfaf964a5209e7e25e3,Antonucci,42,8.6,13
+325,Clinton,588b74be8f0be469f0737ba9,laboratorio di pasta,29,6.8,11
+326,Chinatown,5c6f559535811b002c0d4496,Gran Tivoli,15,7.7,4
+327,Carnegie Hill,590a65714c9be62d13348591,Siena Cafe,30,6.8,6
+328,Civic Center,49dad010f964a520b15e1fe3,Di Palo Fine Foods,181,8.8,75
+329,Tudor City,4b999165f964a520428435e3,Dolcino,9,6.0,6
+330,Flatiron,5396110b498ecef1832bd696,Obicà Mozzarella Bar Pizza e Cucina,258,7.8,69
+331,Manhattanville,0,0,0,0.0,0
+332,Clinton,3fd66200f964a5209ee81ee3,Carmine’s Italian Restaurant,1617,8.3,553
+333,Upper East Side,45e724b3f964a5205b431fe3,Lusardi's,31,8.2,10
+334,Midtown,4afa15d8f964a520931622e3,Villa Berulia,37,8.2,13
+335,Lower East Side,42893400f964a5206c231fe3,Il Posto Accanto,118,8.6,51
+336,Roosevelt Island,4b775e32f964a520a6952ee3,Campagnola Restaurant,36,8.1,37
+337,Greenwich Village,4a74a36af964a520fede1fe3,Faicco's Italian Specialties,333,9.3,128
+338,Upper West Side,0,0,0,0.0,0
+339,Chelsea,0,0,0,0.0,0
+340,Soho,54459a46498ecf8ec204cc61,Vic's,491,8.9,113
+341,West Village,59ebd989f427de25c337d6dd,Codino,68,8.5,13
+342,Midtown South,4c7ee13301df37044eaee4ac,Manzo,183,8.3,86
+343,Soho,579e5513498e9ffc61b6ad8e,Piccola Cucina Enoteca,63,8.6,13
+344,Upper West Side,50678628e4b0058e9d1dd8f5,Numero 28 Cucina,64,7.2,17
+345,Central Harlem,0,0,0,0.0,0
+346,Midtown,59cc2439c530930c5ac0a887,Bond 45,53,7.1,19
+347,Upper West Side,4e4e4da8bd4101d0d7a73f02,La Vela Cucina Italiana,10,5.9,10
+348,East Village,4ae1b55df964a520df8621e3,Eleven B,42,6.4,19
+349,West Village,5d990825600d16000893f693,Da Toscano,17,8.1,3
+350,Noho,5c89cad22632ec002c2722d4,Zia Maria Little Italy,3,7.6,6
+351,Soho,437bc800f964a520a52a1fe3,Scalini Fedeli,61,8.4,28
+352,Lincoln Square,4aecab04f964a52023ca21e3,Pomodoro Rosso,78,8.1,52
+353,Gramercy,4a60ad34f964a52001c11fe3,Bruno's Gourmet Market,43,7.1,37
+354,Gramercy,59dd1ccaf870fd589f795fca,Vini E Fritti,86,8.2,14
+355,Little Italy,4c7d4f1b8da18cfa1afc9ece,Osteria Morini,750,8.7,296
+356,Yorkville,0,0,0,0.0,0
+357,Hudson Yards,0,0,0,0.0,0
+358,Little Italy,566ccc9e498e30e477702118,Cafe Altro Paradiso,210,8.5,50
+359,Upper East Side,4dcf3f00d22deadedd682925,Luna Rossa,18,7.4,8
+360,Carnegie Hill,562c1df4498e2c64fb4a9faa,San Matteo Pizzeria e Cucina,104,8.5,25
+361,Noho,4b0ddac5f964a520645123e3,Emilio's Ballato,164,8.6,66
+362,Tribeca,5421eb06498e1b6b9c1bfd9c,Gran Morsi,75,8.0,23
+363,Murray Hill,49f1d030f964a520b9691fe3,Cipriani Dolci,114,6.7,62
+364,Tribeca,5b4e3d49db3aef00246d2d3f,Nonna Beppa,19,8.1,8
+365,Little Italy,4b0ddac5f964a520645123e3,Emilio's Ballato,164,8.6,66
+366,Noho,5c6f559535811b002c0d4496,Gran Tivoli,15,7.7,4
+367,Clinton,4b4d140bf964a5202aca26e3,Lugo Cucina,93,6.8,51
+368,Civic Center,4b06ceddf964a5209df022e3,Piemonte Ravioli Co,25,8.4,9
+369,Midtown South,4f5a3f7ae4b0d28c6907c6a9,Rosticceria,36,7.4,14
+370,West Village,3fd66200f964a52050e61ee3,Il Corallo Trattoria,259,8.3,118
+371,Hudson Yards,4d0122e21ebe6dcb3d918b91,Casa Nonna,200,8.0,79
+372,Soho,439b5079f964a520de2b1fe3,Epistrophy,448,8.3,152
+373,Lenox Hill,4a2172ccf964a520f37c1fe3,Felice 64,140,8.4,37
+374,West Village,56a1214f498e7512685bb8a1,Cappone’s Salumeria,47,8.5,13
+375,Stuyvesant Town,4bd37996b221c9b631e2d9d0,Il Forno Pizza and Pasta Restaurant,7,5.9,5
+376,Civic Center,3fd66200f964a520aae61ee3,Gigino Trattoria,109,7.7,45
+377,Murray Hill,4afa15d8f964a520931622e3,Villa Berulia,37,8.2,13
+378,Lincoln Square,4a9359caf964a5209b1f20e3,Patsy's Pizzeria,192,8.0,65
+379,Greenwich Village,56bbc58e498eed7b2c402556,Pasquale Jones,359,8.8,106
+380,Financial District,57acc558498e036ce8f2b0b4,La Pizza & La Pasta,192,8.2,45
+381,Flatiron,4a8c84daf964a520530e20e3,da Umberto,88,8.8,38
+382,Hudson Yards,4a9338e0f964a5203a1f20e3,Gallo Nero,52,7.0,51
+383,East Harlem,0,0,0,0.0,0
+384,Financial District,57c630ad498ea0b1bcfb8da2,Orto E Mare,6,6.2,4
+385,Murray Hill,5bab2290d03360002ca0191a,Ristoro del Cinghiale,11,7.1,3
+386,Stuyvesant Town,0,0,0,0.0,0
+387,Murray Hill,58252ebad02c06429707be49,Norma,52,7.8,18
+388,Gramercy,551f21cd498e341e6a5e1276,Patrizia's of Manhattan,96,7.6,16
+389,Tribeca,44e9b357f964a520a4371fe3,Giorgione,65,7.6,33
+390,Tudor City,0,0,0,0.0,0
+391,Lincoln Square,54961b98498eccc96c4a93d7,Masseria dei Vini,108,8.6,30
+392,Financial District,0,0,0,0.0,0
+393,Soho,40f5c900f964a520a30a1fe3,Cipriani Downtown,311,8.5,110
+394,Carnegie Hill,55835b10498e4d4b71a919c7,G&J's Pizzeria,8,6.0,4
+395,East Village,4a3d99e6f964a52084a21fe3,Cacio e Vino,69,7.6,40
+396,Sutton Place,538a7bfb498ed1082713bd5a,Farinella Bakery,52,7.0,15
+397,Greenwich Village,543075b3498e283e38ad9dec,Cotenna,880,9.1,234
+398,Stuyvesant Town,4aad8027f964a5209d6020e3,11B Express,17,5.9,17
+399,Battery Park City,4bf6e92e5efe2d7fb1016834,Pronto Pizza,29,6.3,12
+400,East Village,56d25b49cd10ac3ebb4e591c,Gnoccheria by Luzzo's,47,7.9,11
+401,Lenox Hill,4c0fde4b81e976b0623c0eeb,La Crosta Restaurant & Gourmet Pizzeria,6,8.2,8
+402,Flatiron,49bf033cf964a520fe541fe3,Gene's,43,8.9,17
+403,Midtown South,53370455498e18d7e6607a1d,La Pizza & La Pasta,199,8.4,57
+404,Greenwich Village,3fd66200f964a520cee91ee3,La Lanterna di Vittorio,556,9.0,182
+405,Tribeca,4a31891bf964a520ed991fe3,Max,163,7.9,92
+406,Chelsea,0,0,0,0.0,0
+407,Midtown South,4b3c0273f964a520488025e3,Rossinis,54,7.9,21
+408,Turtle Bay,4b7617f4f964a520473c2ee3,Cucina Express MetLife,18,5.6,25
+409,Hudson Yards,49ff15a9f964a520c76f1fe3,John's Pizzeria,774,7.8,346
+410,Sutton Place,4b660239f964a520120e2be3,Barbaresco Restaurant,30,8.4,11
+411,Financial District,4aba753bf964a520698120e3,Antinori Ristorante - Ancora,9,7.6,5
+412,Gramercy,5bab2290d03360002ca0191a,Ristoro del Cinghiale,11,7.1,3
+413,West Village,3fd66200f964a5206fe91ee3,Babbo Ristorante e Enoteca,704,8.9,276
+414,West Village,41478600f964a520b91c1fe3,Extra Virgin,684,8.4,241
+415,Civic Center,556cb8c6498e751e51fbcf41,Parm,246,8.0,73
+416,East Village,49c6a988f964a5206e571fe3,Gnocco,199,7.9,93
+417,Greenwich Village,59ebd989f427de25c337d6dd,Codino,68,8.5,13
+418,Turtle Bay,0,0,0,0.0,0
+419,Midtown South,4adce863f964a5206c6221e3,Tony's Di Napoli,540,8.4,226
+420,Sutton Place,4e986ef030f87b6eacd4462e,Amali,179,8.7,67
+421,Flatiron,551f21cd498e341e6a5e1276,Patrizia's of Manhattan,96,7.6,16
+422,Greenwich Village,3fd66200f964a52023e61ee3,Pepe Rosso To Go,379,8.6,141
+423,Civic Center,45ab8a84f964a52045411fe3,Caffé Palermo,103,7.3,68
+424,Gramercy,4b741ab4f964a5202cc82de3,Novità Cucina Creativa,112,8.7,40
+425,Upper East Side,4beb3df1b3352d7f084456d2,Tevere,16,7.6,9
+426,Upper East Side,4b6391a9f964a52007842ae3,Sandros,23,8.4,10
+427,Chelsea,0,0,0,0.0,0
+428,Murray Hill,55e63b89498e3ed62f75cff3,L'Amico,399,8.6,79
+429,Civic Center,4ade131af964a520db7221e3,Rosella's Pizzeria,68,7.5,50
+430,Civic Center,54f27deb498e47a670f5e399,Gelso & Grand,298,8.4,77
+431,Greenwich Village,4a27289cf964a52062911fe3,L'Artusi,1172,9.4,372
+432,East Harlem,53effc79498eddd22101127d,Nocciola Ristorante,25,7.8,9
+433,Battery Park City,57acc558498e036ce8f2b0b4,La Pizza & La Pasta,192,8.2,45
+434,Greenwich Village,5319188d498e3fb409caa7fd,Carroll Place,448,8.4,117
+435,Sutton Place,57559322498e0c448e8bef53,Toscana 49,32,7.3,6
+436,Sutton Place,5b1db44d0d8a0f002c17fd87,Angeletto,11,7.8,1
+437,Battery Park City,5633b5cf498e17f8e8cff376,Antica Ristorante,17,6.1,9
+438,Midtown South,5b462e7bab42d9002c138e36,Leonelli Bakery (Leonelli Focacceria e Pasticceria),29,7.7,6
+439,Battery Park City,0,0,0,0.0,0
+440,Midtown,4ac2427ef964a520739820e3,Cellini,37,7.4,22
+441,Yorkville,0,0,0,0.0,0
+442,West Village,3fd66200f964a52074e91ee3,Bar Pitti,486,8.2,197
+443,Yorkville,4b3bedfaf964a5209e7e25e3,Antonucci,42,8.6,13
+444,Stuyvesant Town,4a790030f964a520cbe61fe3,Luzzo's,279,8.5,112
+445,Little Italy,56bbc58e498eed7b2c402556,Pasquale Jones,359,8.8,106
+446,Soho,56bbc58e498eed7b2c402556,Pasquale Jones,359,8.8,106
+447,Yorkville,562c1df4498e2c64fb4a9faa,San Matteo Pizzeria e Cucina,104,8.5,25
+448,Chelsea,4f8ca5e0e4b0cbdd4aee48cd,Serafina Meatpacking,214,7.7,70
+449,Civic Center,5018507fe4b03a729d0b40f9,Galli Restaurant,502,7.9,142
+450,Flatiron,4c44eaf559d99c7452f5fbad,Olio e Piú,385,8.0,139
+451,Financial District,4bb54fe02f70c9b6c6188430,Giardino D'oro,35,8.1,18
+452,Lower East Side,0,0,0,0.0,0
+453,Morningside Heights,3fd66200f964a52006e91ee3,Max SoHa,112,7.8,60
+454,Sutton Place,541cdacb498ee14d9f5c15c6,Bistango,37,7.5,11
+455,Tudor City,4e473b97fa76a07fde65b0d8,La Trattoria,15,5.7,12
+456,Upper East Side,4a678012f964a52095c91fe3,Caravaggio,33,7.1,14
+457,Sutton Place,59dfff99419a9e7fcc5b5fa2,La Pecora Bianca,98,8.3,17
+458,Financial District,4fa862b3e4b0ebff2f749f06,Harry's Italian Pizza Bar,120,7.0,56
+459,Chinatown,56bbc58e498eed7b2c402556,Pasquale Jones,359,8.8,106
+460,Yorkville,4ad52027f964a5200a0221e3,Ginos Pizzeria,18,7.3,24
+461,Central Harlem,56d8e01d498ef1500ae7fbfe,Fumo,104,9.1,22
+462,Chinatown,5a67f244efa82a09cc008653,Noga,6,7.0,3
+463,Yorkville,4f3daa90e4b0fbbbd6cc20d8,Numero 28 Pizza,72,8.0,29
+464,Turtle Bay,4ac2427ef964a520739820e3,Cellini,37,7.4,22
+465,Murray Hill,3fd66200f964a5206ae71ee3,Barclay Bar & Grill,3,7.0,5
+466,Clinton,4a7dfd6ef964a52089f01fe3,Da Marino Restaurant,63,7.5,47
+467,Turtle Bay,4b737b0af964a5208db02de3,Cipriani Le Specialita,47,7.3,38
+468,Yorkville,580bf506d67c230d4776aa7a,Casa Pizza & Restaurant,7,5.8,5
+469,Clinton,49f20537f964a520d3691fe3,Manganaro's Hero Boy,36,6.7,39
+470,Little Italy,579e5513498e9ffc61b6ad8e,Piccola Cucina Enoteca,63,8.6,13
+471,Civic Center,4a149749f964a52055781fe3,Locanda Verde,1434,9.1,503
+472,Midtown,541cdacb498ee14d9f5c15c6,Bistango,37,7.5,11
+473,Midtown South,4dcae1b18877502200c95822,Sergimmo Salumeria,325,8.8,129
+474,Turtle Bay,4b887dcbf964a520e0fb31e3,Sam's Place,29,6.9,21
+475,Battery Park City,4a875b51f964a520110420e3,Pomodoro Pizza,4,6.0,8
+476,Turtle Bay,4e473b97fa76a07fde65b0d8,La Trattoria,15,5.7,12
+477,Clinton,4abad7b8f964a520208320e3,Il Punto Ristorante,46,7.7,33
+478,Sutton Place,4b048e66f964a5202a5522e3,Nello,128,7.2,99
+479,Lenox Hill,51c9e3f9498e2cb9c31d19ff,The Meatball Shop,654,8.5,177
+480,Midtown,528b65eb498e12f0376394bd,Barilla Restaurants,237,7.7,218
+481,Sutton Place,567f3485498e0948d80ffcfd,Da Raffaele,6,7.4,6
+482,Noho,4b23f44ff964a520b75d24e3,Paesano of Mulberry Street,191,7.6,92
+483,Stuyvesant Town,5ba2bdd5c824ae002c065c67,Sauce Pizzeria,44,7.5,10
+484,West Village,504b2a9ee4b006c435a465d3,Carbone,718,9.2,234
+485,Greenwich Village,4a552b26f964a520c4b31fe3,Malatesta Trattoria,442,8.5,200
+486,Sutton Place,4c3fa0a8af052d7f10a67a79,Ristorante DeGrezia,31,7.6,15
+487,Yorkville,4b651459f964a52030e32ae3,Italianissimo Ristorante,33,8.7,14
+488,Chelsea,577d7237498eaa7a13f48103,Zia Maria Pizzeria Restaurant,20,6.2,8
+489,Midtown South,55a03533498ec7e74011d0af,La Pecora Bianca,440,8.5,75
+490,Murray Hill,4a79bf64f964a52087e71fe3,Bella Napoli,64,6.6,53
+491,Turtle Bay,0,0,0,0.0,0
+492,Carnegie Hill,4ab972d6f964a520697f20e3,Parma Restaurant,14,7.5,14
+493,Lenox Hill,4aeb7568f964a52043c221e3,Sette Mezzo,28,7.6,18
+494,Greenwich Village,5ab53749446ea6289e41b0e6,Coco Pazzo Kitchen & Restaurant,57,8.9,11
+495,Lenox Hill,3fd66200f964a52075e91ee3,Bella Blu,63,7.9,26
+496,Greenwich Village,4cc6222106c25481d7a4a047,Rubirosa Ristorante,2497,9.3,829
+497,Clinton,4bbb9caaafe1b7139a6b2f4b,Mercato,315,8.2,126
